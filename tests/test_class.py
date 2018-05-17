@@ -6,7 +6,7 @@ Created on Tue May  8 14:21:04 2018
 """
 class Student:
 	name = 'Marie'
-	isPresent = True
+	present = True
 
 class TestClass:
     def test_one(self):
